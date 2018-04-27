@@ -1,0 +1,96 @@
+[
+  {
+    "url": "https://api.github.com/repos/fakhrulhasan01/github_learning/pulls/comments/184754130",
+    "pull_request_review_id": 116019423,
+    "id": 184754130,
+    "diff_hunk": "@@ -0,0 +1 @@\n+This is new branch file just added for pull request.",
+    "path": "new_branch_file.txt",
+    "position": 1,
+    "original_position": 1,
+    "commit_id": "d8863521ec9b433d330f3dd05a49cf5d508ceb53",
+    "original_commit_id": "d8863521ec9b433d330f3dd05a49cf5d508ceb53",
+    "user": {
+      "login": "fakhrulhasan01",
+      "id": 11364874,
+      "avatar_url": "https://avatars3.githubusercontent.com/u/11364874?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/fakhrulhasan01",
+      "html_url": "https://github.com/fakhrulhasan01",
+      "followers_url": "https://api.github.com/users/fakhrulhasan01/followers",
+      "following_url": "https://api.github.com/users/fakhrulhasan01/following{/other_user}",
+      "gists_url": "https://api.github.com/users/fakhrulhasan01/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/fakhrulhasan01/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/fakhrulhasan01/subscriptions",
+      "organizations_url": "https://api.github.com/users/fakhrulhasan01/orgs",
+      "repos_url": "https://api.github.com/users/fakhrulhasan01/repos",
+      "events_url": "https://api.github.com/users/fakhrulhasan01/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/fakhrulhasan01/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "body": "Yes. I think the codes are right",
+    "created_at": "2018-04-27T17:28:21Z",
+    "updated_at": "2018-04-27T17:35:32Z",
+    "html_url": "https://github.com/fakhrulhasan01/github_learning/pull/1#discussion_r184754130",
+    "pull_request_url": "https://api.github.com/repos/fakhrulhasan01/github_learning/pulls/1",
+    "author_association": "OWNER",
+    "_links": {
+      "self": {
+        "href": "https://api.github.com/repos/fakhrulhasan01/github_learning/pulls/comments/184754130"
+      },
+      "html": {
+        "href": "https://github.com/fakhrulhasan01/github_learning/pull/1#discussion_r184754130"
+      },
+      "pull_request": {
+        "href": "https://api.github.com/repos/fakhrulhasan01/github_learning/pulls/1"
+      }
+    }
+  },
+  {
+    "url": "https://api.github.com/repos/fakhrulhasan01/github_learning/pulls/comments/184755773",
+    "pull_request_review_id": 116019423,
+    "id": 184755773,
+    "diff_hunk": "@@ -0,0 +1 @@\n+This is new branch file just added for pull request.",
+    "path": "new_branch_file.txt",
+    "position": 1,
+    "original_position": 1,
+    "commit_id": "d8863521ec9b433d330f3dd05a49cf5d508ceb53",
+    "original_commit_id": "d8863521ec9b433d330f3dd05a49cf5d508ceb53",
+    "user": {
+      "login": "fakhrulhasan01",
+      "id": 11364874,
+      "avatar_url": "https://avatars3.githubusercontent.com/u/11364874?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/fakhrulhasan01",
+      "html_url": "https://github.com/fakhrulhasan01",
+      "followers_url": "https://api.github.com/users/fakhrulhasan01/followers",
+      "following_url": "https://api.github.com/users/fakhrulhasan01/following{/other_user}",
+      "gists_url": "https://api.github.com/users/fakhrulhasan01/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/fakhrulhasan01/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/fakhrulhasan01/subscriptions",
+      "organizations_url": "https://api.github.com/users/fakhrulhasan01/orgs",
+      "repos_url": "https://api.github.com/users/fakhrulhasan01/repos",
+      "events_url": "https://api.github.com/users/fakhrulhasan01/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/fakhrulhasan01/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "body": "I think, you should check it again.",
+    "created_at": "2018-04-27T17:34:14Z",
+    "updated_at": "2018-04-27T17:35:32Z",
+    "html_url": "https://github.com/fakhrulhasan01/github_learning/pull/1#discussion_r184755773",
+    "pull_request_url": "https://api.github.com/repos/fakhrulhasan01/github_learning/pulls/1",
+    "author_association": "OWNER",
+    "_links": {
+      "self": {
+        "href": "https://api.github.com/repos/fakhrulhasan01/github_learning/pulls/comments/184755773"
+      },
+      "html": {
+        "href": "https://github.com/fakhrulhasan01/github_learning/pull/1#discussion_r184755773"
+      },
+      "pull_request": {
+        "href": "https://api.github.com/repos/fakhrulhasan01/github_learning/pulls/1"
+      }
+    }
+  }
+]
