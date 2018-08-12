@@ -1,0 +1,2 @@
+Bcrypt hashing file location:
+\vendor\laravel\framework\src\Illuminate\Hashing
